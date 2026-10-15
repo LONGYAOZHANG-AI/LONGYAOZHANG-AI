@@ -1,50 +1,40 @@
 # Longyao Zhang
 
-### Data Scientist | Industrial AI | Data Infrastructure | AI for Scientific & Industrial R&D
+### Data Engineering | Data Governance | Industrial AI | Applied AI Systems
 
-I am a data and AI professional working at the intersection of **Industrial AI, data infrastructure, and intelligent R&D**.
+I am a data and AI professional with experience in enterprise data infrastructure, analytics engineering, data governance, and applied AI initiatives.
 
-My work focuses on building scalable data and knowledge systems that enable AI to move beyond isolated models and become part of real-world scientific and industrial workflows.
+My work focuses on connecting scalable data systems with practical AI applications, particularly in industrial and enterprise environments.
 
-## Research & Engineering Interests
+## Technical Focus
 
-- Industrial AI
-- Data Infrastructure & Data Governance
-- AI for Scientific Discovery
-- Knowledge Graphs & Ontologies
-- Physics-informed Machine Learning
-- Active Learning & Bayesian Optimization
-- Intelligent R&D Systems
-- Decision Intelligence
+- **Data Engineering & Governance:** Data pipelines, heterogeneous data integration, data quality, metric standardization, and enterprise data architecture.
+- **Industrial AI:** Data foundations for intelligent manufacturing, predictive analytics, and industrial process optimization.
+- **Analytics & Experimentation:** A/B testing, causal inference, user lifecycle analytics, and business impact measurement.
+- **AI Infrastructure:** Cloud-based data platforms, scalable analytical workflows, and AI-ready data systems.
 
-## Current Focus
+## Selected Engineering Projects
 
-I am currently exploring how trusted data infrastructure, domain knowledge, and AI can be integrated into industrial R&D workflows, particularly in advanced manufacturing and materials-related research.
+### Industrial AI Reference Architecture
+A reference architecture exploring how enterprise data governance, heterogeneous data integration, and AI workflows can be organized for industrial applications.
 
-A central question behind my work is:
+[Explore the repository](https://github.com/LONGYAOZHANG-AI/industrial-ai-reference-architecture)
 
-> How can we transform fragmented industrial data and domain knowledge into reusable infrastructure for scientific discovery and engineering decision-making?
+### Data Analytics Portfolio
+A collection of technical examples covering analytics engineering, experimental design, and data-driven decision-making.
 
-## Selected Topics
+[Explore the repository](https://github.com/LONGYAOZHANG-AI/data-analytics-portfolio)
 
-- Data Infrastructure for Industrial AI
-- Knowledge-driven Industrial Intelligence
-- AI-assisted Materials Discovery
-- Active Learning for Experimental Design
-- Industrial Data Governance
-- Closed-loop Intelligent R&D Systems
+## Engineering Interests
 
-## Talks
+- Industrial AI and intelligent manufacturing
+- Enterprise data governance and AI-ready infrastructure
+- Scalable cloud data platforms
+- Experimentation and causal impact evaluation
+- Knowledge-driven and decision-support systems
 
-### Data Infrastructure for Industrial AI
-**Building the Foundation for the Next Generation of Intelligent R&D**
+## About This GitHub
 
-CIAI 2026
+This profile documents selected technical interests, reference architectures, and independently shareable engineering examples.
 
-## Professional Interests
-
-I am particularly interested in the evolution from:
-
-**Data → Knowledge → Intelligence → Decision**
-
-and how this transition can reshape industrial research, materials discovery, and engineering workflows.
+Public repositories are intended to demonstrate technical approaches and do not disclose confidential employer, client, or research-partner information.
